@@ -1,0 +1,5 @@
+package: github.com/mattfarina/go-test2
+import:
+- package: github.com/Masterminds/vcs
+  version: ^1.7.0
+- package: github.com/mattfarina/go-test

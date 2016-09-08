@@ -1,0 +1,10 @@
+hash: 6945ab5131c8bd5d996a098847fc871c27561f08c919d0d8899b823c4d4fb8b1
+updated: 2016-09-07T20:51:56.52980624-04:00
+imports:
+- name: github.com/Masterminds/semver
+  version: 8d0431362b544d1a3536cca26684828866a7de09
+- name: github.com/Masterminds/vcs
+  version: fbe9fb6ad5b5f35b3e82a7c21123cfc526cbf895
+- name: github.com/mattfarina/go-test
+  version: f4c5622f0af704d24099c2a6819bc8aa3ff58e44
+testImports: []
